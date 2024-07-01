@@ -6,3 +6,10 @@
 2. Colab-ноутбук для задачи детектирования галлюцинаций: https://colab.research.google.com/drive/1qHDc3aT6mmfiwPgzmgQ2pfKmJMUh9z5x?usp=sharing
 
 3. (Бонус) Colab-ноутбук с запуском мультиязычной языковой модели Qwen2: https://colab.research.google.com/drive/1kjVYH5zAhYK8hohDZdsVFWXxGDz52KBs?usp=sharing
+
+
+Что изучить:
+
+1. Стартовый курс по Python для Data Science: https://stepik.org/course/125587/promo
+
+2. Видеолекции от Андрея Картапого: https://www.youtube.com/@AndrejKarpathy
