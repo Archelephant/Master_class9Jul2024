@@ -8,7 +8,7 @@
 3. (Бонус) Colab-ноутбук с запуском мультиязычной языковой модели Qwen2: https://colab.research.google.com/drive/1kjVYH5zAhYK8hohDZdsVFWXxGDz52KBs?usp=sharing
 
 
-Что изучить:
+Что изучить, если хотите погрузиться глубже:
 
 1. Стартовый курс по Python для Data Science: https://stepik.org/course/125587/promo
 
