@@ -12,4 +12,4 @@
 
 1. Стартовый курс по Python для Data Science: https://stepik.org/course/125587/promo
 
-2. Видеолекции от Андрея Картапого: https://www.youtube.com/@AndrejKarpathy
+2. Видеолекции от Андрея Карпатого: https://www.youtube.com/@AndrejKarpathy
